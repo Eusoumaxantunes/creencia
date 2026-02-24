@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Ley de la Creación | Domina tu realidad</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;800&display=swap" rel="stylesheet">
+
+<style>
+/* ===== RESET / BASE ===== */
+body{
+    margin:0;
+    font-family:'Montserrat',sans-serif;
+    background:#0e0e0e;
+    color:#f1f1f1;
+}
+section{
+    padding:90px 10%;
+    
+}
+.block{
+    max-width:1100px;
+    margin:auto;
+}
+
+/* ===== HERO ===== */
+.hero{
+    text-align:center;
+    background:
+    linear-gradient(rgba(0,0,0,0.65),rgba(0,0,0,0.9)),
+    url("IMAGEM_CAPA_PRINCIPAL.jpg") center/contain no-repeat;
+    background-size:auto 75%;
+    background-position:center 40px;
+}
+.hero h1{
+    font-size:3.4rem;
+    font-weight:800;
+    letter-spacing:1px;
+    color:#ffcc66;
+}
+.hero span{
+    color:#ffb347;
+}
+.hero p{
+    font-size:1.35rem;
+    max-width:900px;
+    margin:30px auto;
+}
+
+/* ===== BOTÃO ===== */
+.btn{
+    display:inline-block;
+    padding:20px 55px;
+    background:linear-gradient(90deg,#ff9a00,#ffcc33);
+    color:#000 !important;
+    text-decoration:none;
+    font-weight:800;
+    border-radius:50px;
+    margin-top:35px;
+    box-shadow:0 0 35px rgba(255,180,0,0.6);
+    transition:0.3s;
+}
+.btn:hover{
+    transform:scale(1.08);
+}
+
+/* ===== SEÇÕES ===== */
+.light{
+    background:#151515;
+}
+h2{
+    color:#ffcc66;
+}
+p{
+    color:#f1f1f1;
+    line-height:1.9;
+    font-size:1.15rem;
+}
+strong{
+    color:#ffb347;
+}
+ul{
+    line-height:2.1;
+    font-size:1.1rem;
+}
+li{
+    color:#f1f1f1;
+}
+
+/* ===== IMAGENS ===== */
+.image{
+    margin-top:50px;
+}
+.image img{
+    width:100%;
+    border-radius:25px;
+}
+
+/* ===== BONUS ===== */
+.bonus-grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
+    gap:45px;
+    margin-top:60px;
+}
+.bonus{
+    background:#0f0f0f;
+    border-radius:25px;
+    padding:35px;
+    box-shadow:0 0 40px rgba(255,170,0,0.15);
+    text-align:center;
+}
+.bonus img{
+    width:100%;
+    border-radius:20px;
+}
+
+/* ===== FOOTER ===== */
+.footer{
+    background:#000;
+    color:#999;
+    text-align:center;
+    padding:45px;
+    font-size:0.85rem;
+}
+</style>
+</head>
+
+<body>
+
+<!-- HERO -->
+<section class="hero">
+    <h1>LEY DE LA <span>CREACIÓN</span></h1>
+    <p>
+        Nada en tu vida es casualidad.  
+        Todo responde a una ley invisible.  
+        Este libro te enseña cómo activarla de forma consciente.
+    </p>
+    <a href="#comprar" class="btn">QUIERO ACTIVAR ESTA LEY</a>
+</section>
+
+<!-- PROBLEMA -->
+<section>
+<div class="block">
+    <h2>La mayoría crea su vida sin saber que lo está haciendo</h2>
+    <p>
+        Cada pensamiento que repites está entrenando tu destino.  
+        Cada emoción que no dominas está decidiendo por ti.  
+        <br><br>
+        El problema no es la vida.  
+        El problema es que casi nadie fue enseñado a conducir su mente.
+        <br><br>
+        <strong>Ley de la Creación</strong> no es motivación ni pensamiento positivo.  
+        Es consciencia, intención y control interno absoluto.
+    </p>
+
+    <div class="image">
+        <img src="https://institutoibm.com/LeydelaCreacion/cenario-1.png.png?_t=1769107736">
+    </div>
+</div>
+</section>
+
+<!-- PARA QUIÉN ES -->
+<section class="light">
+<div class="block">
+    <h2>Este libro es para ti si:</h2>
+    <ul>
+        <li>Sientes que tu vida avanza sin dirección</li>
+        <li>Quieres controlar pensamientos y emociones</li>
+        <li>Estás cansado de repetir los mismos resultados</li>
+        <li>Sabes que tu mente puede producir mucho más</li>
+        <li>Quieres vivir con intención y claridad</li>
+    </ul>
+
+    <a href="#comprar" class="btn">ESTE LIBRO ES PARA MÍ</a>
+</div>
+</section>
+
+<!-- CONTENIDO -->
+<section>
+<div class="block">
+    <h2>Lo que dominarás con <span style="color:#ffb347;">Ley de la Creación</span></h2>
+    <ul>
+        <li>Dirección consciente del pensamiento</li>
+        <li>Creación intencional de resultados</li>
+        <li>Dominio emocional bajo presión</li>
+        <li>Ruptura de ciclos inconscientes</li>
+        <li>Control interno absoluto</li>
+    </ul>
+
+    <div class="image">
+        <img src="IMAGEM_CENARIO_2.jpg">
+    </div>
+</div>
+</section>
+
+<!-- BONUS -->
+<section class="light">
+<div class="block">
+    <h2>Recibes también bonos exclusivos</h2>
+    <p>
+        Al adquirir <strong>Ley de la Creación</strong>  
+        accedes a materiales que profundizan la reprogramación mental.
+    </p>
+
+    <div class="bonus-grid">
+        <div class="bonus">
+            <img src="IMAGEM_BONUS_1.jpg">
+            <h3>BONO 1</h3>
+            <p>Rompe patrones invisibles y actualiza tu mente.</p>
+        </div>
+
+        <div class="bonus">
+            <img src="IMAGEM_BONUS_2.jpg">
+            <h3>BONO 2</h3>
+            <p>Domina emociones y asume control interno.</p>
+        </div>
+
+        <div class="bonus">
+            <img src="IMAGEM_BONUS_3.jpg">
+            <h3>BONO 3</h3>
+            <p>Reprogramación directa para decisiones firmes.</p>
+        </div>
+    </div>
+</div>
+</section>
+
+<!-- DECISIÓN -->
+<section id="comprar">
+<div class="block" style="text-align:center;">
+    <h2>La decisión es tuya</h2>
+    <p>
+        Puedes seguir dejando que la vida te arrastre,  
+        <br>
+        o tomar las riendas y crear tu destino desde hoy.
+    </p>
+
+    <a href="https://pay.hotmart.com/B104022654J?checkoutMode=10" class="btn">
+        COMPRAR AHORA Y TRANSFORMAR MI VIDA
+    </a>
+
+    <p style="margin-top:25px;font-size:0.95rem;">
+        Acceso inmediato • Incluye bonos • Garantía total
+    </p>
+</div>
+</section>
+
+<div class="footer">
+    © 2026 • Instituto IBM • CNPJ: 48.086.207/0001-57 .
+</div>
+
+</body>
+</html>
